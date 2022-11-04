@@ -1,0 +1,818 @@
+Mono path[0] = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/cars_Data/Managed'
+Mono config path = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 10.49.191.122
+Multi-casting "[IP] 10.49.191.122 [Port] 55266 [Flags] 2 [Guid] 879503573 [EditorId] 1670079898 [Version] 1048832 [Id] WindowsPlayer(2,ladcva022) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] cars" to [225.0.0.222:54997]...
+Initialize engine version: 2021.3.12f1 (8af3c3e441b1)
+[Subsystems] Discovering subsystems at path C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/cars_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.152 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Blit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Debug/DebugReplacement shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/FallbackError shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/FallbackError' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/kMotion/CameraMotionVectors shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/kMotion/ObjectMotionVectors shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CameraMotionBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/PaniniProjection shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LensFlareDataDriven shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Scaling Setup shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Skybox/6 Sided shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Particles/Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Particles/Unlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Particles/Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+UnloadTime: 0.866500 ms
+Registered Communicator.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Unity.MLAgents.Agent:Awake () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:373)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs Line: 373)
+
+Track 3 CC 12.04392
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Academy:ForcedFullReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Academy.cs:561)
+Unity.MLAgents.Academy:EnvironmentStep () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Academy.cs:575)
+Unity.MLAgents.AcademyFixedUpdateStepper:FixedUpdate () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Academy.cs:43)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 30.56421
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:AgentStep () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1392)
+Unity.MLAgents.Academy:EnvironmentStep () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Academy.cs:602)
+Unity.MLAgents.AcademyFixedUpdateStepper:FixedUpdate () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Academy.cs:43)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 36.97453
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 30.51275
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 48.11904
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 11.63844
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 38.64265
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 46.3003
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 28.41548
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 21.39537
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 34.03569
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 35.70353
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 28.01237
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 42.27904
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 19.78314
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 41.43501
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 12.05875
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 48.79685
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 18.60186
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 34.08681
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 40.6708
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 23.49362
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 15.18065
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 13.02497
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 28.93283
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 37.24131
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 37.68597
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 15.10673
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 13.23348
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 13.2607
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 22.78156
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 43.9376
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 17.74063
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 43.29968
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 33.11009
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 0 CC 43.72507
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 40.74408
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 13.8125
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 17.63099
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 48.31848
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 19.61223
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 17.6345
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 36.27987
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 12.68772
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 46.97163
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 12.92451
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 31.85284
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 49.74755
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 43.64702
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 24.30222
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 22.99063
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 47.90773
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 2 CC 10.48442
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 19.51864
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 38.50532
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 1 CC 16.09335
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+
+Track 3 CC 16.18682
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+MyKartAgent:OnEpisodeBegin () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:36)
+Unity.MLAgents.Agent:_AgentReset () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:1341)
+Unity.MLAgents.Agent:EndEpisodeAndReset (Unity.MLAgents.Agent/DoneReason) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:829)
+Unity.MLAgents.Agent:EndEpisode () (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Library/PackageCache/com.unity.ml-agents@2.3.0-exp.2/Runtime/Agent.cs:803)
+MyKartAgent:OnCollisionEnter (UnityEngine.Collision) (at C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs:97)
+
+(Filename: C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Assets/MyKartAgent.cs Line: 36)
+

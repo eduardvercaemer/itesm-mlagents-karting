@@ -1,0 +1,15 @@
+Mono path[0] = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/cars_Data/Managed'
+Mono config path = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 10.49.191.122
+Multi-casting "[IP] 10.49.191.122 [Port] 55038 [Flags] 2 [Guid] 3067257748 [EditorId] 2021693798 [Version] 1048832 [Id] WindowsPlayer(2,ladcva022) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] cars" to [225.0.0.222:54997]...
+Initialize engine version: 2021.3.12f1 (8af3c3e441b1)
+[Subsystems] Discovering subsystems at path C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/cars_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.102 seconds
+Crash!!!

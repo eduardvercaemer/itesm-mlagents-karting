@@ -1,0 +1,162 @@
+Mono path[0] = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/cars_Data/Managed'
+Mono config path = 'C:/Users/a01424567/Documents/GitHub/itesm-mlagents-karting/Builds/MonoBleedingEdge/etc'
+Found 1 interfaces on host : 0) 10.49.191.122
+Multi-casting "[IP] 10.49.191.122 [Port] 55195 [Flags] 2 [Guid] 3721059872 [EditorId] 2021693798 [Version] 1048832 [Id] WindowsPlayer(2,ladcva022) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] cars" to [225.0.0.222:54997]...
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Assets\Models;C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'a01424567'
+OS-Version: 10.0.0
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\cars.exe:cars.exe (00007FF6B9F10000), size: 675840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.12.62403
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF8AB050000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF8AA1F0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF8A8910000), size: 2940928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1826
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\UnityPlayer.dll:UnityPlayer.dll (00007FFF16030000), size: 49995776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.12.62403
+C:\Windows\System32\USER32.dll:USER32.dll (00007FF8A94C0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF8A88E0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1826
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF8AA510000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF8A8F00000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF8A9010000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF8A8770000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF8AA2B0000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF8AA3E0000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\combase.dll:combase.dll (00007FF8A90B0000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF8A9A20000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF8A2000000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF8AA760000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF8A9B30000), size: 4648960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF8A8EB0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF8A8E80000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF8A9A80000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF8AA150000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FF8AA800000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF8AA5E0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FF8AA5B0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF89F980000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF84E200000), size: 1208320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF8A8BE0000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF8A7BD0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF8AA540000), size: 438272 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF8A0220000), size: 1089536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FF8A6FF0000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF89E560000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF8A6360000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\umppc16010.dll:umppc16010.dll (0000024C797D0000), size: 81920 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.46.16010.0
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF8A6650000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF8A8D40000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF8A6150000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\AudioDevProps2.dll:AudioDevProps2.dll (00007FF896680000), size: 1249280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.6.12.0
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\NahimicOSD.dll:NahimicOSD.dll (00007FF8925A0000), size: 712704 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 2.2.25.0
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\ProductInfo.dll:ProductInfo.dll (00007FF895CB0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.13.0
+
+========== OUTPUTTING STACK TRACE ==================
+
+SymInit: Symbol-SearchPath: '.;C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Assets\Models;C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'a01424567'
+OS-Version: 10.0.0
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\cars.exe:cars.exe (00007FF6B9F10000), size: 675840 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\cars.exe', fileVersion: 2021.3.12.62403
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FF8AB050000), size: 2064384 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FF8AA1F0000), size: 774144 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FF8A8910000), size: 2940928 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.19041.1826
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\UnityPlayer.dll:UnityPlayer.dll (00007FFF16030000), size: 49995776 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\UnityPlayer.dll', fileVersion: 2021.3.12.62403
+C:\Windows\System32\USER32.dll:USER32.dll (00007FF8A94C0000), size: 1703936 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.19041.1503
+C:\Windows\System32\win32u.dll:win32u.dll (00007FF8A88E0000), size: 139264 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.19041.1826
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FF8AA510000), size: 172032 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.19041.1620
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FF8A8F00000), size: 1093632 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.19041.1706
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FF8A9010000), size: 643072 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FF8A8770000), size: 1048576 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.19041.789
+C:\Windows\System32\ole32.dll:ole32.dll (00007FF8AA2B0000), size: 1220608 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.19041.1202
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FF8AA3E0000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.19041.1806
+C:\Windows\System32\combase.dll:combase.dll (00007FF8A90B0000), size: 3489792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.19041.1741
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FF8A9A20000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.19041.1706
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FF8A2000000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FF8AA760000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.19041.546
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FF8A9B30000), size: 4648960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FF8A8EB0000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.19041.1620
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FF8A8E80000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 10.0.19041.1023
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FF8A9A80000), size: 712704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 10.0.19041.1682
+C:\Windows\System32\sechost.dll:sechost.dll (00007FF8AA150000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.19041.1586
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FF8AA800000), size: 7618560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.19041.1806
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FF8AA5E0000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.19041.985
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FF8AA5B0000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FF89F980000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF84E200000), size: 1208320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.19041.1806
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FF8A8BE0000), size: 1400832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF8A7BD0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.19041.546
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FF8AA540000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF8A0220000), size: 1089536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FF8A6FF0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FF89E560000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF8A6360000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dwmapi.dll', fileVersion: 10.0.19041.746
+C:\Windows\System32\umppc16010.dll:umppc16010.dll (0000024C797D0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.46.16010.0
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF8A6650000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF8A8D40000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FF8A6150000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.19041.1620
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\AudioDevProps2.dll:AudioDevProps2.dll (00007FF896680000), size: 1249280 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\AudioDevProps2.dll', fileVersion: 2.6.12.0
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\NahimicOSD.dll:NahimicOSD.dll (00007FF8925A0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.2.25.0
+C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\ProductInfo.dll:ProductInfo.dll (00007FF895CB0000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\ProductInfo.dll', fileVersion: 1.5.13.0
+C:\Windows\System32\shcore.dll:shcore.dll (00007FF8AAF60000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FF8771A0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.1812.6001
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FF891E30000), size: 581632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.32.31326.0
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FF891E10000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.32.31326.0
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FF891E00000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.32.31326.0
+C:\Users\a01424567\Documents\GitHub\itesm-mlagents-karting\Builds\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFF155F0000), size: 10686464 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\system32\mswsock.dll:mswsock.dll (00007FF8A7F30000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\NSI.dll:NSI.dll (00007FF8AAF50000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FF8A3490000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FF8A3400000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF8A7C10000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\system32\napinsp.dll:napinsp.dll (00007FF885140000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (00007FF885120000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\wshbth.dll:wshbth.dll (00007FF8A3750000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (00007FF8A42F0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1151
+C:\Windows\System32\winrnr.dll:winrnr.dll (00007FF885650000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FF8A6850000), size: 7946240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FF8A81D0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FF8A86B0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF896900000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+C:\Windows\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FF8A8630000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\System32\psapi.dll:psapi.dll (00007FF8A97B0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF1646D3BA)
+0x00007FFF1646D3BA (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16468390)
+0x00007FFF16468390 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF164675E2)
+0x00007FFF164675E2 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16467C98)
+0x00007FFF16467C98 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16472B1E)
+0x00007FFF16472B1E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16EDF14F)
+0x00007FFF16EDF14F (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16ECD647)
+0x00007FFF16ECD647 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16EEAF32)
+0x00007FFF16EEAF32 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16F68041)
+0x00007FFF16F68041 (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16F6C35D)
+0x00007FFF16F6C35D (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FFF16F6EACB)
+0x00007FFF16F6EACB (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FF6B9F111F2)
+0x00007FF6B9F111F2 (cars) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FF8AA207034)
+0x00007FF8AA207034 (KERNEL32) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Se ha intentado tener acceso a una dirección no válida.' (Address: 00007FF8AB0A2651)
+0x00007FF8AB0A2651 (ntdll) (function-name not available)
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/A01424~1/AppData/Local/Temp/DefaultCompany/cars/Crashes

@@ -1,0 +1,65 @@
+{
+    "MyKartAgent": {
+        "checkpoints": [
+            {
+                "steps": 161248,
+                "file_path": "results\\kart2.0\\MyKartAgent\\MyKartAgent-161248.onnx",
+                "reward": 4.6000001803040504,
+                "creation_time": 1667520296.147736,
+                "auxillary_file_paths": [
+                    "results\\kart2.0\\MyKartAgent\\MyKartAgent-161248.pt"
+                ]
+            },
+            {
+                "steps": 261538,
+                "file_path": "results\\kart2.0\\MyKartAgent\\MyKartAgent-261538.onnx",
+                "reward": 2.880000111460686,
+                "creation_time": 1667520573.372881,
+                "auxillary_file_paths": [
+                    "results\\kart2.0\\MyKartAgent\\MyKartAgent-261538.pt"
+                ]
+            },
+            {
+                "steps": 427543,
+                "file_path": "results\\kart2.0\\MyKartAgent\\MyKartAgent-427543.onnx",
+                "reward": 2.4000000953674316,
+                "creation_time": 1667521193.2133317,
+                "auxillary_file_paths": [
+                    "results\\kart2.0\\MyKartAgent\\MyKartAgent-427543.pt"
+                ]
+            },
+            {
+                "steps": 499998,
+                "file_path": "results\\kart2.0\\MyKartAgent\\MyKartAgent-499998.onnx",
+                "reward": 18.2400028526783,
+                "creation_time": 1667521609.30936,
+                "auxillary_file_paths": [
+                    "results\\kart2.0\\MyKartAgent\\MyKartAgent-499998.pt"
+                ]
+            },
+            {
+                "steps": 500004,
+                "file_path": "results\\kart2.0\\MyKartAgent\\MyKartAgent-500004.onnx",
+                "reward": 18.2400028526783,
+                "creation_time": 1667521609.3417857,
+                "auxillary_file_paths": [
+                    "results\\kart2.0\\MyKartAgent\\MyKartAgent-500004.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500004,
+            "file_path": "results\\kart2.0\\MyKartAgent.onnx",
+            "reward": 18.2400028526783,
+            "creation_time": 1667521609.3417857,
+            "auxillary_file_paths": [
+                "results\\kart2.0\\MyKartAgent\\MyKartAgent-500004.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
